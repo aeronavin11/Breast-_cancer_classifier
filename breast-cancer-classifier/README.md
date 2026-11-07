@@ -22,7 +22,7 @@ The features describe cell nuclei measurements extracted from digitized fine nee
 
 ## c. GitHub Repository Link
 
-[Open the GitHub repository]([PASTE YOUR GITHUB REPOSITORY LINK HERE])
+(https://github.com/aeronavin11/Breast-_cancer_classifier/edit/main/breast-cancer-classifier/README.md))
 
 ## d. Models Used and Evaluation Metrics
 
